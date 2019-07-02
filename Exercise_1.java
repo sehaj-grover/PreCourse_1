@@ -5,7 +5,7 @@ class Stack {
   
     boolean isEmpty() 
     { 
-        //Write your code here 
+        //Write your code here
     } 
 
     Stack() 
@@ -23,6 +23,7 @@ class Stack {
     { 
         //If empty return 0 and print " Stack Underflow"
         //Write your code here
+        return 0;
     } 
   
     int peek() 
